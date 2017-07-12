@@ -10,3 +10,4 @@ Change directory to Root folder:
 Change directory to my home folder: 
 `cd ~`
 
+I am on midway now!
