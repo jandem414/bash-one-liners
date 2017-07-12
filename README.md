@@ -6,3 +6,7 @@ Change directory up one level:
 
 Change directory to Root folder:
 `cd /`
+
+Change directory to my home folder: 
+`cd ~`
+
